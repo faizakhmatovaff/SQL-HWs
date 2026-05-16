@@ -31,3 +31,4 @@ FROM
 SELECT COUNT (DISTINCT country)
 FROM 
   customers
+  -тест
